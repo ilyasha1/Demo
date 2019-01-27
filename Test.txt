@@ -1,2 +1,4 @@
 Goodbye, World!
 Goodbye, friend!
+
+Goodbye
